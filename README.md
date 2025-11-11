@@ -29,7 +29,7 @@ El informe de Power BI está dividido en tres páginas principales, cada una con
 - Análisis Sueldos
 
 - Evaluación Desempeño
-- 
+
 ## Funcionalidades Interactivas
 
 - **Segmentadores**: Se agregaron filtros interactivos que permiten segmentar los datos por género, departamento, nivel de desempeño y sueldo.
